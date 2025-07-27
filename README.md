@@ -1,6 +1,9 @@
 # My Express App
 
-<p aling="center">This is a challeng by <a href="https://coodesh.com/" target="_blank"></p>
+<p align="center">
+            This is a challeng by
+            <a href="https://coodesh.com/" target="_blank"> Coodesh</a>
+          </p>
 
 ## Project Structure
 
